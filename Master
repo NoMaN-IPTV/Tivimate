@@ -372,6 +372,9 @@ http://58.99.33.9:1935/liveedge2/live_71_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dealood.com/content/uploads/images/July2019/3799343_logo_docurama[1].png" group-title="Movies",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://miro.medium.com/max/600/1*F4KCaZlddPqI9iDdJW0SvA.png" group-title="Movies",Film Hub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1200px-Filmrise.svg.png" group-title="Movies",Filmrise Crime
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
 
@@ -381,20 +384,20 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_50000
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1200px-Filmrise.svg.png" group-title="Movies",Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.cdn.watchdisneyfe.com/ErrorPages/FX/assets/fx/fx@2x.png" group-title="Movies",FX
-https://cdn-laos.workpoint.news/hd-fxeng_480/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="Movies",Fox Action Movies
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fm.png" group-title="Movies",Fox Movies HD (Taiwan)
 http://58.99.33.9:1935/liveedge2/live_69_1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="Movies",Fox Action Movies
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-images-1.medium.com/max/280/1*7zB_9kQDvR3fa_IIk8fhQg@2x.png" group-title="Movies",Flim Hub
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.cdn.watchdisneyfe.com/ErrorPages/FX/assets/fx/fx@2x.png" group-title="Movies",FX
+https://cdn-laos.workpoint.news/hd-fxeng_480/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.gravitasmovies.com/img/logo.2c3446e0.png" group-title="Movies",Gravitas Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO
+http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://vhx.imgix.net/hi-yahtv/assets/4f35a43c-50ed-4ba3-a1ac-41af0f16b7fb.png?fit=max&h=84&q=92&w=400" group-title="Movies",Hi-YAH!
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
@@ -408,40 +411,20 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlis
 #EXTINF:-1 tvg-id="" tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22731/movie-kingdom/logo_20191212_225355.png" group-title="Movies",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="Movies",Paramount Movies
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/RomedyNow.in.png" group-title="Movies",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" group-title="Movies",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 
+#EXTINF:-1 tvg-id="SMA.UK" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="Movies",Sony Movies Action
+http://51.52.156.22:8888/http/009
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="Movies",Warner TV
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="Movies",Paramount Movies
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
-
----------------------------------------------------------------------
-
-#EXTINF:-1 tvg-id="CNX.Asia" tvg-logo="https://static.epg.best/id/CineMax.id.png" group-title="Filem",Cinemax
-http://58.99.33.9:1935/liveedge2/live_71_1.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Filem",HBO
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
-
-#EXTINF:-1 tvg-id="FX.Asia" tvg-logo="http://static.epg.best/us/FX.us.png" group-title="Filem",FX
-https://cdn-laos.workpoint.news/hd-fxeng_480/index.m3u8
-
-#EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="http://static.epg.best/id/FOXMovies.id.png" group-title="Filem",FOX Movies
-https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
-
-#EXTINF:-1 tvg-id="PAN.CA" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="Filem",Paramount Network
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
-
-#EXTINF:-1 tvg-id="RON.ID" tvg-logo="http://static.epg.best/in/RomedyNow.in.png" group-title="Filem",Romedy Now
-https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-
-#EXTINF:-1 tvg-id="SMA.UK" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="Filem",Sony Movies Action
-http://51.52.156.22:8888/http/009
 
 ---------------------------------------------------------------------
 
