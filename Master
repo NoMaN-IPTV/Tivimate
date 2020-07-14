@@ -418,11 +418,11 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8|Referer=https://www.youtube.com/e
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/101_144.png" group-title="Malaysia",Al Jazeera English 1
 http://freeview.mywire.org:9090/streams/aljazeera.m3u8
 
--#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png" group-title="Malaysia",Nat Geo Wild HD
--https://
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png" group-title="Malaysia",Nat Geo Wild HD
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 
--#EXTINF:-1 tvg-id="" tvg-logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png"" group-title="Malaysia",National Geographic HD
--https://
+#EXTINF:-1 tvg-id="" tvg-logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png"" group-title="Malaysia",National Geographic HD
+http://220.158.149.26:8182/hls/TV00000000000000000115@HHZT.m3u8
 
 -#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="Malaysia",Discovery Channel HD
 -https://
@@ -439,11 +439,11 @@ http://freeview.mywire.org:9090/streams/aljazeera.m3u8
 -#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="Malaysia",Animal Planet HD
 -https://
 
--#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/63_144.png" group-title="Malaysia",Nat Geo Wild
--https://
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/63_144.png" group-title="Malaysia",Nat Geo Wild
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 
--#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/12_144.png" group-title="Malaysia",National Geographic
--https://
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/12_144.png" group-title="Malaysia",National Geographic
+http://220.158.149.26:8182/hls/TV00000000000000000115@HHZT.m3u8
 
 -#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/54_144.png" group-title="Malaysia",Discovery Channel
 -https://
@@ -526,8 +526,8 @@ http://202.163.117.6:9981/stream/channelid/616453088?ticket=C53E7B5362920D522AFD
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" group-title="Malaysia",TLC HD
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 
--#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" group-title="Malaysia",Food Network HD
--https://
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" group-title="Malaysia",Food Network HD
+http://5.135.92.133:52841/out/u/502_1.m3u8
 
 -#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png" group-title="Malaysia",Asian Food Network HD
 -https://
