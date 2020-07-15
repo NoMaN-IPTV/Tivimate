@@ -38,14 +38,41 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mewatch.sg/image/11392878/16x9/947/533/65a697765218c73516123cf6d309f5c8/oP/cna.png" group-title="Singapore",CNA 1
 http://freeview.mywire.org:9090/streams/cna.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.melisten.sg/api/blob/10711304/79c07de2cfbee0f83a0e8e21428d2c63/warna-942-logoImage.jpg" group-title="Singapore|Radio",WARNA 94.2 FM
-https://13743.live.streamtheworld.com/WARNA942FMAAC.aac?dist=liveonlineradio
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.melisten.sg/api/blob/10711296/ccf360e9edabc86fbe342fd5dee76464/class-95-logoImage.png" group-title="Singapore|Radio",CLASS 95
+https://13743.live.streamtheworld.com/CLASS95_PREM.aac
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.melisten.sg/api/blob/10711304/79c07de2cfbee0f83a0e8e21428d2c63/warna-942-logoImage.jpg" group-title="Singapore|Radio",WARNA 94.2 FM 1
-https://22393.live.streamtheworld.com/WARNA942FM_PREM.aac
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.melisten.sg/api/blob/10711298/7d40fdc48f0c097611817c883b355918/gold905-logoImage.jpg" group-title="Singapore|Radio",GOLD 905
+https://22393.live.streamtheworld.com/GOLD905_PREM.aac
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.melisten.sg/api/blob/10711306/7401c2084f4f6d3cc16373cd2746dbac/ria-897-logoImage.jpg" group-title="Singapore|Radio",RIA 89.7FM
-https://22253.live.streamtheworld.com/RIA897FMAAC.aac?dist=liveonlineradio
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.melisten.sg/api/blob/10711294/4589530b556e261783c2cb2c8b40fd57/987-logoImage.png" group-title="Singapore|Radio",987
+https://22393.live.streamtheworld.com/987FM_PREM.aac
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.melisten.sg/api/blob/10711300/3600973250882fa11b0b01b71a9d6e5d/cna938-logoImage.png" group-title="Singapore|Radio",CNA938
+https://22283.live.streamtheworld.com/938NOW_PREM.aac
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.melisten.sg/api/blob/10711302/05905f3ad135af8884392f6c9b6532b9/symphony-924-logoImage.jpg" group-title="Singapore|Radio",Symphony 924
+https://22273.live.streamtheworld.com/SYMPHONY924_PREM_SBM
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.melisten.sg/api/blob/10711288/cd52d370e0cc18492418783418684746/yes933-logoImage.png" group-title="Singapore|Radio",YES 933
+https://13743.live.streamtheworld.com/YES933_PREM.aac
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.melisten.sg/api/blob/10711290/888770d34985f5fcf4fa0389e372e50f/love-972-logoImage.jpg" group-title="Singapore|Radio",LOVE 972
+https://22253.live.streamtheworld.com/LOVE972FM_PREM.aac
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.melisten.sg/api/blob/10711292/c1d17b4ea5804a7465b72e2662852a6d/capital-958-logoImage.png" group-title="Singapore|Radio",CAPITAL 958
+https://13743.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.melisten.sg/api/blob/10711304/79c07de2cfbee0f83a0e8e21428d2c63/warna-942-logoImage.jpg" group-title="Singapore|Radio",WARNA 94.2
+https://13743.live.streamtheworld.com/WARNA942FMAAC.aac
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.melisten.sg/api/blob/10711306/7401c2084f4f6d3cc16373cd2746dbac/ria-897-logoImage.jpg" group-title="Singapore|Radio",RIA 89.7
+https://22253.live.streamtheworld.com/RIA897FMAAC.aac
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.melisten.sg/api/blob/10711308/ee185c9e9bdee0eda9e4d1535d2484cd/oli-968-logoImage.png" group-title="Singapore|Radio",Oli 968
+https://22393.live.streamtheworld.com/OLI968FM_PREM.aac
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.melisten.sg/api/blob/12155898/d07525190ff3e762fe4873c0f1419a06/singapore-sounds-playlist-logoImage.png" group-title="Singapore|Radio",Singapore Sounds Playlist
+https://19183.live.streamtheworld.com/FRIEDRICE_PARADIS_S01AAC.aac
 
 ---Malaysia---
 
