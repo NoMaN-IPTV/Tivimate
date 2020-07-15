@@ -38,8 +38,14 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mewatch.sg/image/11392878/16x9/947/533/65a697765218c73516123cf6d309f5c8/oP/cna.png" group-title="Singapore",CNA 1
 http://freeview.mywire.org:9090/streams/cna.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Singapore",WARNA RIA FM
-https://13743.live.streamtheworld.com/WARNA942FMAAC.aac
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.melisten.sg/api/blob/10711304/79c07de2cfbee0f83a0e8e21428d2c63/warna-942-logoImage.jpg" group-title="Singapore|Radio",WARNA 94.2 FM
+https://13743.live.streamtheworld.com/WARNA942FMAAC.aac?dist=liveonlineradio
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.melisten.sg/api/blob/10711304/79c07de2cfbee0f83a0e8e21428d2c63/warna-942-logoImage.jpg" group-title="Singapore|Radio",WARNA 94.2 FM 1
+https://22393.live.streamtheworld.com/WARNA942FM_PREM.aac
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.melisten.sg/api/blob/10711306/7401c2084f4f6d3cc16373cd2746dbac/ria-897-logoImage.jpg" group-title="Singapore|Radio",RIA 89.7FM
+https://22253.live.streamtheworld.com/RIA897FMAAC.aac?dist=liveonlineradio
 
 ---Malaysia---
 
