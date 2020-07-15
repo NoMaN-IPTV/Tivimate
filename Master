@@ -38,6 +38,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mewatch.sg/image/11392878/16x9/947/533/65a697765218c73516123cf6d309f5c8/oP/cna.png" group-title="Singapore",CNA 1
 http://freeview.mywire.org:9090/streams/cna.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Singapore",WARNA RIA FM
+https://13743.live.streamtheworld.com/WARNA942FMAAC.aac
+
 ---Malaysia---
 
 #EXTINF:-1 tvg-id="" tvg-name="CH101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" group-title="Malaysia",TV1
